@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Data Science Projects**
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1oGw6qJu-NfbFYuDSfQ7HfgdCVgqN6vLd?usp=sharing](https://drive.google.com/drive/folders/1oGw6qJu-NfbFYuDSfQ7HfgdCVgqN6vLd?usp=sharing)
+- 👨‍💻 All of my projects are available at my [Github](https://github.com/PraveenS0906)
 
 - 💬 Ask me about **Machine Learning, AI, Python**
 
@@ -32,3 +32,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=praveens0906&show_icons=true&locale=en" alt="praveens0906" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praveens0906&" alt="praveens0906" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenS0906&theme=tokyonight)
