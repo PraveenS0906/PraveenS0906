@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Praveen Soni</h1>
 <h3 align="center">A passionate data science enthusiast from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=praveens0906&label=Profile%20views&color=0e75b6&style=flat" alt="praveens0906" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praveens0906" alt="praveens0906" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/praveen38427691" target="blank"><img src="https://img.shields.io/twitter/follow/praveen38427691?logo=twitter&style=for-the-badge" alt="praveen38427691" /></a> </p>
 
-- 🔭 I’m currently working on **Landmark-Aware and Part-based Ensemble Transfer Learning Network for Facial Expression Recognition from Static images**
+- 🔭 I’m currently learning NLP and working on NLP projects
 
 - 🌱 I’m currently learning **Computer Vision & AI**
 
@@ -19,7 +16,7 @@
 
 - 📫 How to reach me **sonipraveen255@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Txfrx1Q1_4G8QCyuQ1cC_RToRtdc2DLo/view?usp=sharing](https://drive.google.com/file/d/1Txfrx1Q1_4G8QCyuQ1cC_RToRtdc2DLo/view?usp=sharing)
+- 📄 Know about my experiences in my resume [https://drive.google.com/file/d/1Txfrx1Q1_4G8QCyuQ1cC_RToRtdc2DLo/view?usp=sharing](https://drive.google.com/file/d/1Txfrx1Q1_4G8QCyuQ1cC_RToRtdc2DLo/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
