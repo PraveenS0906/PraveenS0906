@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently learning NLP and working on NLP projects
 
-- 🌱 I’m currently learning **Computer Vision & AI**
-
 - 👯 I’m looking to collaborate on **Data Science Projects**
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1oGw6qJu-NfbFYuDSfQ7HfgdCVgqN6vLd?usp=sharing](https://drive.google.com/drive/folders/1oGw6qJu-NfbFYuDSfQ7HfgdCVgqN6vLd?usp=sharing)
@@ -16,7 +14,7 @@
 
 - 📫 How to reach me **sonipraveen255@gmail.com**
 
-- 📄 Know about my experiences in my resume [https://drive.google.com/file/d/1Txfrx1Q1_4G8QCyuQ1cC_RToRtdc2DLo/view?usp=sharing](https://drive.google.com/file/d/1Txfrx1Q1_4G8QCyuQ1cC_RToRtdc2DLo/view?usp=sharing)
+- 📄 Know about my experiences in my [Resume](https://drive.google.com/file/d/1lXA4VKQzZPV7KyoZgzSmHrhNeqQB5Fhx/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
