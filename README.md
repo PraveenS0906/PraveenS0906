@@ -28,20 +28,19 @@
 ## 🧰 Languages and Tools:
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://getlogo.net/wp-content/uploads/2020/03/sql-projekt-ag-logo-vector.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/2560px-NumPy_logo_2020.svg.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/1200px-OpenCV_Logo_with_text_svg_version.svg.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/2048px-Keras_logo.svg.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
- <img src="https://getlogo.net/wp-content/uploads/2020/03/sql-projekt-ag-logo-vector.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
  <img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
  <img src="https://matplotlib.org/3.3.4/_static/logo2_compressed.svg" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
- <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1200px-Adobe_Premiere_Pro_CC_icon.svg.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/1051px-Adobe_After_Effects_CC_icon.svg.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 ## ✉️ Find me on:
