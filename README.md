@@ -24,16 +24,6 @@
 <a href="https://instagram.com/thee__ps_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="thee__ps_" height="30" width="40" /></a>
 </p>
 
-## ✉️ Find me on:
-
-
-<p align="center">
- <a href="https://charalambosioannou.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://linkedin.com/in/charalambosioannou" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:cioannou1997@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-</p>
-
-<br />
 
 ## 🧰 Languages and Tools:
 <p align="center">
@@ -46,7 +36,21 @@
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/2048px-Keras_logo.svg.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
  <img src="https://getlogo.net/wp-content/uploads/2020/03/sql-projekt-ag-logo-vector.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
  <img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://matplotlib.org/3.3.4/_static/logo2_compressed.svg" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-   <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://matplotlib.org/3.3.4/_static/logo2_compressed.svg" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1200px-Adobe_Premiere_Pro_CC_icon.svg.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/1051px-Adobe_After_Effects_CC_icon.svg.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
+
+## ✉️ Find me on:
+
+
+<p align="center">
+ <a href="https://charalambosioannou.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://linkedin.com/in/charalambosioannou" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:cioannou1997@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+</p>
+
+<br />
