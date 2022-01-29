@@ -47,5 +47,6 @@
  <img src="https://getlogo.net/wp-content/uploads/2020/03/sql-projekt-ag-logo-vector.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
  <img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
   <img src="https://matplotlib.org/3.3.4/_static/logo2_compressed.svg" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://matplotlib.org/3.3.4/_static/logo2_compressed.svg" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+   <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
